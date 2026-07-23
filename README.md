@@ -28,6 +28,8 @@ No API key, no approval process, and no rate-limited application queue required 
 ├── requirements.txt    # Python dependencies
 
 ```
+## Screenshots
+![Dashboard overview](screenshots/dashboard-overview.png)
 
 ## Setup
 
